@@ -13,7 +13,7 @@ const post = {
     description: "വിവരണം മലയാളം",
     category: "",
     contents: "",
-    thumbnail: "/images/nv-icon.png",
+    thumbnail: "images/nv-icon.png",
     duration: "0:00:00 - MIN",
     size: "0.00 - MB",
     file: ""
